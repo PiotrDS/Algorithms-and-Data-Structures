@@ -1,4 +1,4 @@
-# Algorithms-and-Data-Structures
+# :card_index_dividers: Algorithms-and-Data-Structures :card_index_dividers:
 
 ## Overview
 
@@ -17,38 +17,37 @@ This repository contains implementations of fundamental **algorithms** and **dat
 
 ## Project Structure
 
-Algorithms-and-Data-Structures/ <br>
-│── my_algorithms/ <br>        
-│   │── __init__.py  <br>    
-│   │── data_structures/<br>  
-│   │   │── __init__.py<br>
-│   │   │── linked_list.py<br>
-│   │   │── heap.py<br>
-       ** # TODO**<br>
-│   │   │── b-tree.py<br>
-│   │   │── binomialHeap.py<br>
-│   │   │── fibonacciHeap.py<br>
-│   │── algorithms/<br>       
-       ** # TODO**<br>
-│   │   │── __init__.py<br>
-│   │   │── sorting.py<br>
-│   │   │── searching.py<br>
-│   │   │── graph_algorithms.py<br>
-│   │── utils/<br>
-       ** # TODO**<br>
-│   │   │── __init__.py<br>
-│   │   │── helpers.py<br>
-│   │── tests/ <br>
-       ** # TODO**<br>
-│   │   │── __init__.py<br>
-│   │   │── test_sorting.py<br>
-│   │   │── test_structures.py<br>
-│   │── examples/<br>
-       ** # TODO**<br>
-│   │   │── example_usage.py<br>
-│── setup.py                 <br>
-│── README.md                <br>
-│── .gitignore               <br>
+```plaintext
+Algorithms-and-Data-Structures/
+│── my_algorithms/           
+│   │── __init__.py
+│   │── data_structures/      # Data structures module
+│   │   │── __init__.py
+│   │   │── linked_list.py
+│   │   │── heap.py
+│   │   │── b-tree.py          # TODO: Implementation needed
+│   │   │── binomialHeap.py
+│   │   │── fibonacciHeap.py
+│   │── algorithms/            # Algorithms module
+│   │   │── __init__.py
+│   │   │── # TODO: Add more algorithms
+│   │── utils/                 # Helper functions
+│   │   │── __init__.py
+│   │   │── helpers.py
+│   │   │── # TODO: Extend utilities
+│   │── tests/                 # Unit tests
+│   │   │── __init__.py
+│   │   │── test_sorting.py
+│   │   │── test_structures.py
+│   │   │── # TODO: Add more test cases
+│   │── examples/              # Usage examples
+│   │   │── example_usage.py
+│   │   │── # TODO: More usage examples
+│── setup.py                   # Installation script
+│── README.md                  # Documentation
+│── .gitignore                 # Git ignored files
+
+```
 
 ## Requirements
 No external dependencies. The project runs with the standard Python library.
