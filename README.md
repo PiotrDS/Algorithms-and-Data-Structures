@@ -14,43 +14,41 @@ This repository contains implementations of fundamental **algorithms** and **dat
 ## Technologies Used
 
 - **Python**
-- Standard libraries 
-- `unittest` for testing
 
 ## Project Structure
 
-Algorithms-and-Data-Structures/
-│── my_algorithms/         
-│   │── __init__.py         
-│   │── data_structures/  
-│   │   │── __init__.py
-│   │   │── linked_list.py
-│   │   │── heap.py
-       ** # TODO**
-│   │   │── b-tree.py
-│   │   │── binomialHeap.py
-│   │   │── fibonacciHeap.py
-│   │── algorithms/       
-       ** # TODO**
-│   │   │── __init__.py
-│   │   │── sorting.py
-│   │   │── searching.py
-│   │   │── graph_algorithms.py
-│   │── utils/
-       ** # TODO**
-│   │   │── __init__.py
-│   │   │── helpers.py
-│   │── tests/ 
-       ** # TODO**
-│   │   │── __init__.py
-│   │   │── test_sorting.py
-│   │   │── test_structures.py
-│   │── examples/
-       ** # TODO**
-│   │   │── example_usage.py
-│── setup.py                 # Installation script
-│── README.md                # Documentation
-│── .gitignore               # Git ignore file
+Algorithms-and-Data-Structures/ <br>
+│── my_algorithms/ <br>        
+│   │── __init__.py  <br>    
+│   │── data_structures/<br>  
+│   │   │── __init__.py<br>
+│   │   │── linked_list.py<br>
+│   │   │── heap.py<br>
+       ** # TODO**<br>
+│   │   │── b-tree.py<br>
+│   │   │── binomialHeap.py<br>
+│   │   │── fibonacciHeap.py<br>
+│   │── algorithms/<br>       
+       ** # TODO**<br>
+│   │   │── __init__.py<br>
+│   │   │── sorting.py<br>
+│   │   │── searching.py<br>
+│   │   │── graph_algorithms.py<br>
+│   │── utils/<br>
+       ** # TODO**<br>
+│   │   │── __init__.py<br>
+│   │   │── helpers.py<br>
+│   │── tests/ <br>
+       ** # TODO**<br>
+│   │   │── __init__.py<br>
+│   │   │── test_sorting.py<br>
+│   │   │── test_structures.py<br>
+│   │── examples/<br>
+       ** # TODO**<br>
+│   │   │── example_usage.py<br>
+│── setup.py                 <br>
+│── README.md                <br>
+│── .gitignore               <br>
 
 ## Requirements
 No external dependencies. The project runs with the standard Python library.
